@@ -90,23 +90,26 @@ hr {
     text-align: center;
 }
 .skill-row {
-    margin: 10px auto 10px auto;
-    width: 40%;
+    margin: 10px auto 20px auto;
+    width: 35%;
     text-align: left;
     position: relative;
 }
 .icons-left {
-    width: 80px;
-    margin: auto 40px auto 20px;
+    width: 4rem;
+    margin: auto 20px auto 40px;
     float: left;
 }
 .icons-right {
-    width: 80px;
+    width: 4rem;
     margin: auto 40px auto 20px;
     float: right;  /* use clear: right to prevent wrap around */
 }
+.contact-line{
+    width:40%;
+    margin: auto;
+}
 .contact-me {
-    text-align: left;
     margin: auto;
     width: 50%;
 }
